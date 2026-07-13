@@ -41,7 +41,8 @@ A few things that define how I work:
 ## Stack
 
 **Core:** React · TypeScript · React Native · Vue.js · JavaScript  
-**Styling & Architecture:** Styled Components · HTML · CSS · Tailwind.css · Responsive Design · Accessibility (WCAG) · SEO  
+**Styling & Architecture:** Styled Components · HTML · CSS · Tailwind.css · Responsive Design · Accessibility (WCAG) · SEO
+
 **State & Data:** Redux · Zustand · Firebase · RESTful APIs · Axios  
 **Testing & Tooling:** Jest · Webpack · Docker · Git · CI/CD  
 **Backend exposure:** PHP (Magento, WordPress, Laravel) · Python (Flask) · Node.js · PostgreSQL · MySQL  
