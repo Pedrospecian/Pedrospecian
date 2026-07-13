@@ -23,6 +23,7 @@ A few things that define how I work:
 - Led frontend for web and mobile platforms with 10,000+ daily active users
 - ~35% performance improvement via optimized state management and component architecture
 - Built real-time features integrating with IoT devices (panic buttons, turnstile control) using Firebase
+- Implemented an AI-powered facial validation feature, which replaced the old system and reduced validation time by around 50%
 - Rebuilt a critical condominium management dashboard: better UX, accessibility, and data visualization
 - Introduced automated UI testing with Jest, increasing frontend reliability across key integrations
 
@@ -40,10 +41,10 @@ A few things that define how I work:
 ## Stack
 
 **Core:** React · TypeScript · React Native · Vue.js · JavaScript  
-**Styling & Architecture:** Styled Components · HTML · CSS · Responsive Design · Accessibility (WCAG)  
-**State & Data:** Redux · Firebase · RESTful APIs · Axios  
+**Styling & Architecture:** Styled Components · HTML · CSS · Tailwind.css · Responsive Design · Accessibility (WCAG) · SEO
+**State & Data:** Redux · Zustand · Firebase · RESTful APIs · Axios  
 **Testing & Tooling:** Jest · Webpack · Docker · Git · CI/CD  
-**Backend exposure:** PHP (Magento, WordPress) · Python (Flask) · PostgreSQL · MySQL  
+**Backend exposure:** PHP (Magento, WordPress, Laravel) · Python (Flask) · Node.js · PostgreSQL · MySQL  
 **Process:** Agile · Scrum
 
 ---
@@ -66,7 +67,7 @@ A few things that define how I work:
 
 - 📧 pts.mdascruzes@gmail.com
 - 🔗 [linkedin.com/in/pedro-toupitzen-specian](https://www.linkedin.com/in/pedro-toupitzen-specian/)
-- 📍 São Paulo, Brazil · Open to remote opportunities
+- 📍 São Paulo, Brazil · Open to remote opportunities and 1099 contracts
 
 ---
 
