@@ -19,7 +19,7 @@ A few things that define how I work:
 
 ## Experience highlights
 
-**Kobel Software** — Senior Frontend Engineer · 2023–2026
+**Kobel Software** - Senior Frontend Engineer · 2023–2026
 - Led frontend for web and mobile platforms with 10,000+ daily active users
 - ~35% performance improvement via optimized state management and component architecture
 - Built real-time features integrating with IoT devices (panic buttons, turnstile control) using Firebase
@@ -27,12 +27,12 @@ A few things that define how I work:
 - Rebuilt a critical condominium management dashboard: better UX, accessibility, and data visualization
 - Introduced automated UI testing with Jest, increasing frontend reliability across key integrations
 
-**Exablack** — Full Stack Engineer · 2021–2023
+**Exablack** - Full Stack Engineer · 2021–2023
 - Built and maintained 10+ responsive features/pages for e-commerce and online education platforms
 - Integrated payment systems including checkout flows and boleto generation
 - Containerized applications with Docker; contributed to a Liferay-based content distribution platform
 
-**Superteia** — Full Stack Engineer · 2020–2021
+**Superteia** - Full Stack Engineer · 2020–2021
 - Delivered full-stack features across e-commerce and industrial systems (Vue.js, Python/Flask, PostgreSQL)
 - Optimized a critical database query that cut product data response time by ~40%
 
@@ -51,14 +51,15 @@ A few things that define how I work:
 
 ## Education
 
-- **FATEC Mogi das Cruzes** — Associate Degree in Computer Systems Technology (2019–2021)
-- **University of São Paulo (USP)** — Information Systems (2012–2017)
+- **FATEC Mogi das Cruzes** - Associate Degree in Computer Systems Technology (2019–2021)
+- **University of São Paulo (USP)** - Information Systems (2012–2017)
 
 ---
 
 ## Languages
 
 - **English:** Full professional proficiency
+- **Spanish:** Intermediary
 - **Portuguese:** Native
 
 ---
